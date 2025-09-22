@@ -2,6 +2,7 @@
 
 ## Models   
 
+- Regular models (.ckpt or .safetensors) : `ComfyUI/models/checkpoints`
 - GGUF : `ComfyUI/models/unet`
 - FP8:
 
