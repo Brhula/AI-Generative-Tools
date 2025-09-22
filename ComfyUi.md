@@ -1,3 +1,13 @@
+# ComfyUi useful NODES .   
+
+- Manager (basic): https://github.com/ltdrdata/ComfyUI-Manager
+- WAN video wrapper: for WAN video workflows https://github.com/kijai/ComfyUI-WanVideoWrapper
+- SUPIR: SDXL Up Scale of images and video https://github.com/kijai/ComfyUI-SUPIR
+- KJNodes for ComfyUI: for quality of life improvements https://github.com/kijai/ComfyUI-KJNodes
+- Inspire Pack: for quality of life improvements https://github.com/ltdrdata/ComfyUI-Inspire-Pack
+- Depth Anithing: create depth maps https://github.com/kijai/ComfyUI-DepthAnythingV2
+- Frame interpolation: useful to go from 16 to 25 or 30 fps in video https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
+
 # Where to put files in ComfyUi.   
 
 File structure in https://comfyui-wiki.com/en/interface/files
