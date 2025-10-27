@@ -28,4 +28,5 @@ File structure in https://comfyui-wiki.com/en/interface/files
 
 - open CMP/PoweShell on "custom_nodes" folder
 - `git close <repository>`
-- `python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\ComfyUI-WanVideoWrapper\requirements.txt`
+- go to install deirectory `cd ..\..`
+- `python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\<repository>\requirements.txt`
