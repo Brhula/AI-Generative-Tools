@@ -28,5 +28,5 @@ File structure in https://comfyui-wiki.com/en/interface/files
 
 - open CMP/PoweShell on "custom_nodes" folder
 - `git clone <repository>`
-- go to install deirectory `cd ..\..`
-- `python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\<repository>\requirements.txt`
+- go to install directory :  `cd ..\..`
+- Install requieriments (if needed) :  `python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\<repository>\requirements.txt`
