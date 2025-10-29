@@ -30,3 +30,9 @@ File structure in https://comfyui-wiki.com/en/interface/files
 - `git clone <repository>`
 - go to install directory :  `cd ..\..`
 - Install requieriments (if needed) :  `python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\<repository>\requirements.txt`
+
+
+####  <ins>INSTALL</ins>   
+
+- Use ComfyUI easy Install as template
+- After installing it, add "sage attention" and "nunchaku" add on 
