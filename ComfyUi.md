@@ -37,4 +37,4 @@ File structure in https://comfyui-wiki.com/en/interface/files
 - Use ComfyUI easy Install as template
 - After installing it, add "sage attention" and "nunchaku" add on 
 - Add path to existing models (yawn file)
-- Modify startup script to use web servide and sage attention, like: `.\python_embeded\python.exe -I -W ignore::FutureWarning ComfyUI\main.py --windows-standalone-build --use-sage-attention --listen --output-directory \\cubarsi\caches\__COMFYUI_OUTPUT__`
+- Modify startup script to use web service (`--listen`) and sage attention (`--use-sage-attention`), and if needed, the oputput directory (`--output-directory`), like: `.\python_embeded\python.exe -I -W ignore::FutureWarning ComfyUI\main.py --windows-standalone-build --use-sage-attention --listen --output-directory \\cubarsi\caches\__COMFYUI_OUTPUT__`
