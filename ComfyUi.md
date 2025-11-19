@@ -9,7 +9,7 @@
 - Video Helper suit: helps voith video and audio https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 - WAN video wrapper: for WAN video workflows https://github.com/kijai/ComfyUI-WanVideoWrapper
 
-# Where to put files in ComfyUi.   
+## Where to put files in ComfyUi.   
 
 File structure in https://comfyui-wiki.com/en/interface/files
 
@@ -24,7 +24,7 @@ File structure in https://comfyui-wiki.com/en/interface/files
 - Text Encoders (clip) : `ComfyUI/models/clip`
 
 
-####  <ins>INSTALL CUSTOM NODES</ins>   
+##  <ins>INSTALL CUSTOM NODES</ins>   
 
 - open CMP/PoweShell on "custom_nodes" folder
 - `git clone <repository>`
@@ -32,9 +32,9 @@ File structure in https://comfyui-wiki.com/en/interface/files
 - Install requieriments (if needed) :  `python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\<repository>\requirements.txt`
 
 
-####  <ins>INSTALL</ins>   
+##  <ins>INSTALL</ins>   
 
-- Use ComfyUI easy Install as template
+- Use ComfyUI easy Install as template (https://github.com/Tavris1/ComfyUI-Easy-Install)
 - After installing it, add "sage attention" and "nunchaku" add on 
 - Add path to existing models (yawn file)
 - Modify startup script to use web service (`--listen`) and sage attention (`--use-sage-attention`), and if needed, the oputput directory (`--output-directory`), like: `.\python_embeded\python.exe -I -W ignore::FutureWarning ComfyUI\main.py --windows-standalone-build --use-sage-attention --listen --output-directory \\cubarsi\caches\__COMFYUI_OUTPUT__`
