@@ -24,7 +24,7 @@ File structure in https://comfyui-wiki.com/en/interface/files
 - Text Encoders (clip) : `ComfyUI/models/clip`
 
 
-####  <ins>CUSTOM NODES</ins>   
+####  <ins>INSTALL CUSTOM NODES</ins>   
 
 - open CMP/PoweShell on "custom_nodes" folder
 - `git clone <repository>`
