@@ -1,6 +1,10 @@
-# IMAGE Upscaling   
+# IMAGE UpAScaling   
 
 ComfyUI-SUPIR by kijai : https://github.com/kijai/ComfyUI-SUPIR uses SDXL to do I2I upscaling
+
+# VIDEO UpScaling
+
+flashvsr
 
 # FACE SWAP Tools
 
