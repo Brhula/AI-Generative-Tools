@@ -6,6 +6,10 @@ ComfyUI-SUPIR by kijai : https://github.com/kijai/ComfyUI-SUPIR uses SDXL to do 
 
 flashvsr
 
+# VIDEO PBR (to relight)
+
+https://beeble.ai/
+
 # FACE SWAP Tools
 
 ### Deep Fake   
