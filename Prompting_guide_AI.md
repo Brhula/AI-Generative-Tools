@@ -1,3 +1,7 @@
+### USEFUL BASIC PROMPTS   
+
+- `remove watermark`
+
 ### "FILE LEVEL" prompts for restoring images
 
 Prompts tipo
