@@ -26,3 +26,4 @@ Glosario: https://education.civitai.com/generative-ai-glossary/
 - I2V : Image to video
 - ...
 - FL2V : First and last frame to video
+- IC-LoRA : In Context Lora, transfers the structure and motion from a reference video onto a completely new generation while allowing you to reimagine the visual style through text prompts.
