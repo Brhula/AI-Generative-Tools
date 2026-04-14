@@ -1,3 +1,9 @@
+### ON-LINE  PROMPT GUIDES    
+
+https://moodnode.ai/tools/directors-eye?filter=motion   
+https://moodnode.ai/tools/directors-eye   
+https://moodnode.ai/tools/prompt-library   
+
 ### USEFUL BASIC PROMPTS   
 
 - `remove watermark`
