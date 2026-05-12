@@ -38,3 +38,8 @@ File structure in https://comfyui-wiki.com/en/interface/files
 - After installing it, add "sage attention" and "nunchaku" add on 
 - Add path to existing models (yawn file)
 - Modify startup script to use web service (`--listen`) and sage attention (`--use-sage-attention`), and if needed, the oputput directory (`--output-directory`), like: `.\python_embeded\python.exe -I -W ignore::FutureWarning ComfyUI\main.py --windows-standalone-build --use-sage-attention --listen --output-directory \\cubarsi\caches\__COMFYUI_OUTPUT__`
+
+##  <ins>WORKFLOWS</ins>   
+
+ https://github.com/Comfy-Org/workflow_templates/tree/main/templates   
+ https://github.com/axiomgraph/ComfyUIWorkflow/tree/main
