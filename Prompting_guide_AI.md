@@ -26,3 +26,10 @@ Task: Restore this photo faithfully. Steps:
 Mirar este enlace con toda la info: https://www.reddit.com/r/StableDiffusion/comments/1qhulcx/flux2_klein_distilledcomfyui_use_filelevel/
 
 `FLux Klein` :  en este post hay tips para mejorar el aspecto de la piel con "ReferenceLatent chaining" y CFG a 1.2.
+
+
+Outpaint en `Flux Klein`   
+
+```
+As a professional photo editor, restore and enhance the provided photograph. Your primary goal is to deblur the image, bringing sharpness and clarity. Remove the white parts, use the image for context.
+```
