@@ -44,4 +44,5 @@ File structure in https://comfyui-wiki.com/en/interface/files
  https://github.com/Comfy-Org/workflow_templates/tree/main/templates   
  https://github.com/axiomgraph/ComfyUIWorkflow/tree/main   
  https://huggingface.co/datasets/JahJedi/workflows_for_share/tree/main   
+ https://github.com/AcademiaSD/comfyui_AcademiaSD/tree/main/example_workflows    
  
