@@ -6,3 +6,8 @@ LTX easy prompts (experimental): https://github.com/seanhan19911990-source/LTX2E
 
 
 Kijai : https://huggingface.co/Kijai   
+
+
+#### WORKFLOWS   
+
+https://huggingface.co/RuneXX/LTX-2.3-Workflows   
