@@ -47,4 +47,4 @@ File structure in https://comfyui-wiki.com/en/interface/files
  https://github.com/AcademiaSD/comfyui_AcademiaSD/tree/main/example_workflows    
  https://huggingface.co/RuneXX/LTX-2.3-Workflows   
  https://github.com/AcademiaSD/comfyui_AcademiaSD   
- 
+ https://www.runninghub.ai/page-workflow   
