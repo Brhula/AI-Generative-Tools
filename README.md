@@ -10,6 +10,10 @@ flashvsr
 
 https://beeble.ai/
 
+# AUDIO    
+
+- [Stem Deck - Separador de audio de canciones, local](https://github.com/stemdeckapp/stemdeck)
+
 # FACE SWAP Tools
 
 ### Deep Fake   
