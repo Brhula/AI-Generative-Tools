@@ -1,3 +1,10 @@
+# VFX PIPELINE   
+
+Tools for professional use on a VFX pipeline.
+
+- [RADIANCE - Professional VFX & HDR Suite for ComfyUI](https://github.com/fxtdstudios/radiance)
+
+
 # IMAGE UpAScaling   
 
 ComfyUI-SUPIR by kijai : https://github.com/kijai/ComfyUI-SUPIR uses SDXL to do I2I upscaling
