@@ -26,3 +26,8 @@ Width and height must be divisible by 32
 |  16:9 (landscape) | 1280  |  736 | 720p — recommended  | Medium  |
 |  16:9 (landscape) | 1920  |  1088 | 1080p — high quality  | High (RTX 5090+) |
 | 1:1 (square)  | 768  | 768  | 	Social media square  | Medium |
+
+
+#### PROMPTING   
+
+- Use a negative prompt: Add terms like "jump cut, teleport, morph, dissolve, glitch, stutter, duplicate face, warped limbs" to your negative prompt to discourage the model from producing artifacts during the interpolated sections.
