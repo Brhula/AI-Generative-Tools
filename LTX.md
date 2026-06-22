@@ -15,6 +15,8 @@ https://huggingface.co/RuneXX/LTX-2.3-Workflows
 
 #### RESOLUTION   
 
+Width and height must be divisible by 32   
+
 |  Aspect Ratio | Width  | Height  | Quality  |  	VRAM |
 |---|---|---|---|---|
 | 9:16 (portrait)  | 480  | 864  | Low / fast preview  |  Low |
