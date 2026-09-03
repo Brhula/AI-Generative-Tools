@@ -6,6 +6,8 @@ https://moodnode.ai/tools/prompt-library
 
 https://prompthero.com/   
 
+Minimax system prompt for LLM prompt building: https://huggingface.co/MiniMaxAI/MiniMax-H3/discussions/28
+
 ### USEFUL BASIC PROMPTS   
 
 - `remove watermark`
