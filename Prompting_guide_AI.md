@@ -5,6 +5,7 @@ https://moodnode.ai/tools/directors-eye
 https://moodnode.ai/tools/prompt-library   
 
 https://prompthero.com/   
+Krea promt gallery: https://sjh9714.github.io/krea2-wildcards/
 
 Minimax system prompt for LLM prompt building: https://huggingface.co/MiniMaxAI/MiniMax-H3/discussions/28
 
