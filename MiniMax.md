@@ -3,6 +3,8 @@
 ### Notas generales sobre la generación    
 
 - Micro expresiones faciales: https://www.reddit.com/r/StableDiffusion/comments/1wap0rb/pushing_ai_emotions_is_possible_through/   
+- On Line prompt builder: https://minimaxh3.studio/guide/minimax-h3/prompt-builder#choose-mode
+  
 
 #### CALIDAD de la GENERACIONES
 
